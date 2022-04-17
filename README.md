@@ -1,15 +1,15 @@
 # (Uncle Profile) เป็นตัวอย่างการอัพโหลด package ไปยัง pypi.org
 
-PyPi: https://pypi.org/project/khawniewmamoung/
+PyPi: https://pypi.org/project/khawniewmamuang/
 
-สวัสดีจ้าาาา แพ็คนี้คือแพ็คเกจที่อธิบายโปรไฟล์ของนาย Loong และสามารถนำไปใช้กับผู้อื่นได้
+สวัสดีจ้าาาา แพ็คนี้คือแพ็คเกจที่อธิบายโปรไฟล์ของนาย Wizvolcano และสามารถนำไปใช้กับผู้อื่นได้
 
 ### วิธีติดตั้ง
 
 เปิด CMD / Terminal
 
 ```python
-pip install khawniewmamoung
+pip install khawniewmamuang
 ```
 
 ### วิธีใช้งานแพ็คเพจนี้
@@ -17,7 +17,7 @@ pip install khawniewmamoung
 - เปิด IDLE ขึ้นมาแล้วพิมพ์...
 
 ```python
-from khawniewmamoung import mango
+from khawniewmamuang import MangoStickyRice
 
     mango = MangoStickyRice()
     mango.what_is_it()

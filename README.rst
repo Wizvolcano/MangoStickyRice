@@ -1,9 +1,9 @@
 (Uncle Profile) เป็นตัวอย่างการอัพโหลด package ไปยัง pypi.org
 =============================================================
 
-PyPi: https://pypi.org/project/khawniewmamoung/
+PyPi: https://pypi.org/project/khawniewmamuang/
 
-สวัสดีจ้าาาา แพ็คนี้คือแพ็คเกจที่อธิบายโปรไฟล์ของนาย Loong
+สวัสดีจ้าาาา แพ็คนี้คือแพ็คเกจที่อธิบายโปรไฟล์ของนาย Wizvolcano
 และสามารถนำไปใช้กับผู้อื่นได้
 
 วิธีติดตั้ง
@@ -13,7 +13,7 @@ PyPi: https://pypi.org/project/khawniewmamoung/
 
 .. code:: python
 
-   pip install khawniewmamoung
+   pip install khawniewmamuang
 
 วิธีใช้งานแพ็คเพจนี้
 ~~~~~~~~~~~~~~~~~~~~
@@ -22,7 +22,7 @@ PyPi: https://pypi.org/project/khawniewmamoung/
 
 .. code:: python
 
-   from khawniewmamoung import mango
+   from khawniewmamuang import MangoStickyRice
 
        mango = MangoStickyRice()
        mango.what_is_it()

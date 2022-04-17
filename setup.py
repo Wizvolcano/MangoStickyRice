@@ -10,8 +10,8 @@ DESCRIPTION = '\n\n'.join(LOAD_TEXT(_) for _ in [
 ])
 
 setup(
-  name = 'khawniewmamoung',      
-  packages = ['khawniewmamoung'], 
+  name = 'khawniewmamuang',      
+  packages = ['khawniewmamuang'], 
   version = '0.0.1', 
   license='MIT', 
   description = 'What is mango sticky rice by Wizvolcano',
