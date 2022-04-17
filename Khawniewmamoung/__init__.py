@@ -1,1 +1,0 @@
-from khawniewmamoung.mango import MangoStickyRice
