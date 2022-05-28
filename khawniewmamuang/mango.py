@@ -190,7 +190,7 @@ if __name__ == '__main__':
     mango = MangoStickyRice()
     mango.what_is_it()
     mango.show_ingredient()
-    mango.show_how_to()
+    mango.show_how_to(eng = True)
     mango.show_youtube(open=True)
     mango.show_google(open=True)
     mango.show_location(location='สยาม',open=True)

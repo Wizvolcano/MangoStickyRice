@@ -12,15 +12,15 @@ DESCRIPTION = '\n\n'.join(LOAD_TEXT(_) for _ in [
 setup(
   name = 'khawniewmamuang',      
   packages = ['khawniewmamuang'], 
-  version = '0.0.1', 
+  version = '0.0.2', 
   license='MIT', 
   description = 'What is mango sticky rice by Wizvolcano',
   long_description=DESCRIPTION,
   author = 'Wizvolcano',                 
   author_email = 'vorawut.c@outlook.com',     
-  url = 'https://github.com/Wizvolcano',  
+  url = 'https://github.com/Wizvolcano/MangoStickyRice',  
   download_url = 'https://github.com/Wizvolcano/MangoStickyRice/archive/v0.0.1.zip',  
-  keywords = ['Mango Sticky Rice', 'wizvolcano'],
+  keywords = ['Mango Sticky Rice', 'Wizvolcano'],
   classifiers=[
     'Development Status :: 3 - Alpha',     
     'Intended Audience :: Education',     
